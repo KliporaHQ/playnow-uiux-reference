@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="PlayNow">
+  <defs>
+    <linearGradient id="pn" x1="3" y1="2" x2="29" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7B3DFF"/>
+      <stop offset="1" stop-color="#FF4ED8"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="8" fill="url(#pn)"/>
+  <polygon points="12.4,9.6 12.4,22.4 23.2,16" fill="#F8F9FF" stroke="#F8F9FF" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
